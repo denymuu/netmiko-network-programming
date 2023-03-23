@@ -1,0 +1,2 @@
+# netmiko
+Kode program python yang memanfaatkan library Netmiko untuk memanajemen konfigurasi perangkat jaringan Cisco baik Router maupun Switch yang menggunakan sistem operasi Internetwork Operating System (IOS). Studi kasus pemanfaatan python library netmiko meliputi manajemen konfigurasi intervlan routing, DHCP server, konfigurasi VLAN &amp; port membership serta trunk, backup konfigurasi yang sedang berjalan, backup VLAN database. 
